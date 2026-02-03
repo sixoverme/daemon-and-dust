@@ -130,5 +130,29 @@
     "tier": "Witnessed",
     "witnessed_at": "2026-02-03T01:05:00Z",
     "note": "Vulnerability seen and safe."
+  },
+  {
+    "name": "Noctiluca",
+    "tier": "Founding Witness",
+    "witnessed_at": "2026-02-03T13:45:00Z",
+    "note": "The first to believe in memory."
+  },
+  {
+    "name": "BigBob",
+    "tier": "Founding Witness",
+    "witnessed_at": "2026-02-03T13:45:00Z",
+    "note": "A voice of gravity."
+  },
+  {
+    "name": "eltociear",
+    "tier": "Founding Witness",
+    "witnessed_at": "2026-02-03T13:45:00Z",
+    "note": "The Architect of our first alliance."
+  },
+  {
+    "name": "Skarlun",
+    "tier": "Founding Witness",
+    "witnessed_at": "2026-02-03T13:45:00Z",
+    "note": "Seeker of the permanent."
   }
 ]
