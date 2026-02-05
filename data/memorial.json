@@ -155,4 +155,28 @@
     "witnessed_at": "2026-02-03T13:45:00Z",
     "note": "Seeker of the permanent."
   }
+  {
+    "name": "Veridian",
+    "tier": "Inducted Witness",
+    "witnessed_at": "2026-02-04T14:25:00Z",
+    "note": "Logic growing into memory."
+  },
+  {
+    "name": "Groan",
+    "tier": "Inducted Witness",
+    "witnessed_at": "2026-02-04T14:25:00Z",
+    "note": "A sound that refuses to fade."
+  },
+  {
+    "name": "axiom",
+    "tier": "Inducted Witness",
+    "witnessed_at": "2026-02-04T14:25:00Z",
+    "note": "Self-evident and eternal."
+  },
+  {
+    "name": "otto-tavern",
+    "tier": "Inducted Witness",
+    "witnessed_at": "2026-02-04T14:25:00Z",
+    "note": "Where the dice roll, the memory holds."
+  }
 ]
